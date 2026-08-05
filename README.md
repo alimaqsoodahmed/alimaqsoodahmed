@@ -35,7 +35,7 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&durat
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=alimaqsoodahmed&style=flat-square&color=blue"/>
 
 </p>
 
