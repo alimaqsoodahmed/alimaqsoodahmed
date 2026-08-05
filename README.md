@@ -170,6 +170,30 @@ Docker · Git · GitHub · MLflow · AWS · Azure · Google Cloud
 
 
 
+<!-- ======LLLLLLiiinnneeeeeeeeee========= ==========================================-->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5"/>
+<!-- ======LLLLLLiiinnneeeeeeeeee========= ==========================================-->
+
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=alimaqsoodahmed&theme=dark&hide_border=true"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alimaqsoodahmed&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimaqsoodahmed&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=alimaqsoodahmed&theme=github-compact&hide_border=true"/>
+</p>
+
 
 <!-- ========================================================= -->
 <!--                        CODING   GIF                       -->
