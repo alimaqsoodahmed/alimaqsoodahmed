@@ -65,8 +65,6 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&durat
   About Me
 </h2>
 
-## 👨‍💻 About Me
-
 🎓 MS in Artificial Intelligence
 
 🔬 AI Researcher · Machine Learning Engineer
@@ -77,13 +75,9 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&durat
 
 📈 Researching Time-Series Forecasting & Smart Energy Systems
 
-👁️ Interested in Computer Vision & Embedded AI
+👁️ Interested in Natural Language Processing , Computer Vision & Embedded AI
 
 🤝 Open to research collaborations and AI engineering opportunities
-
-📚 Author of *Intelligent HEMS Optimization* (Master's Thesis)
-
-
 
 
 ---
