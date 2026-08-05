@@ -175,23 +175,57 @@ Docker · Git · GitHub · MLflow · AWS · Azure · Google Cloud
 <!-- ======LLLLLLiiinnneeeeeeeeee========= ==========================================-->
 
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<!-- ========================================================= -->
+<!--                        STATS                              -->
+<!-- ========================================================= -->
+
+<h2 align="left">📊 GitHub Dashboard</h2>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=alimaqsoodahmed&theme=dark&hide_border=true"/>
+
+<img
+width="48%"
+src="https://github-readme-stats.vercel.app/api?username=alimaqsoodahmed&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+
+<img
+width="48%"
+src="https://github-readme-streak-stats.herokuapp.com?user=alimaqsoodahmed&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+
+</p>
+
+<p align="center">
+
+<img
+width="38%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimaqsoodahmed&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9"/>
+
 </p>
 
 <br>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alimaqsoodahmed&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimaqsoodahmed&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img
+width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=alimaqsoodahmed&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF"/>
+
 </p>
 
 <br>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=alimaqsoodahmed&theme=github-compact&hide_border=true"/>
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=alimaqsoodahmed&theme=algolia&no-frame=true&column=4&margin-w=12"/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=alimaqsoodahmed&style=for-the-badge&color=58A6FF"/>
+
 </p>
 
 
