@@ -27,8 +27,8 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&durat
 
 <p align="center">
 
-<a href="https://github.com/alimaqsoodahmed" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="48" />
+<a href="https//alimaqsoodahmed.github.io" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="48" />
 </a>
 
 <a href="https://www.linkedin.com/in/muhammad-ali-76b938182/" target="_blank">
@@ -47,9 +47,6 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&durat
     <img src="https://cdn.simpleicons.org/x/ffffff" height="48" />
 </a>
 
-<a href="https//alimaqsoodahmed.github.i" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="48" />
-</a>
 
 </p>
 
