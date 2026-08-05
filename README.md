@@ -52,9 +52,9 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&durat
 
 </p>
 
-<!-- ======LLLLLLiiinnneeeeeeeeee========= -->
+<!-- ======LLLLLLiiinnneeeeeeeeee========= ==========================================-->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5"/>
-
+<!-- ======LLLLLLiiinnneeeeeeeeee========= ==========================================-->
 
 
 <!-- ========================================================= -->
@@ -84,12 +84,24 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&durat
 
 ---
 
+<!-- ======LLLLLLiiinnneeeeeeeeee========= ==========================================-->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5"/>
+<!-- ======LLLLLLiiinnneeeeeeeeee========= ==========================================-->
+
+## 👋 Bio
+
+Hey! I'm **Muhammad Ali** — an AI Researcher and Machine Learning Engineer with a Master's degree in Artificial Intelligence. I enjoy building intelligent systems, exploring cutting-edge AI technologies, and transforming research ideas into real-world applications.
+
+I've been working with Python, Machine Learning, and Deep Learning for several years, building projects in Computer Vision, Time-Series Forecasting, Smart Energy Systems, and Large Language Models (LLMs). My recent work focuses on intelligent energy management using deep learning and optimization techniques.
+
+Outside of research, I'm always learning something new—from AI Agents and RAG systems to Multimodal AI—and I'm open to collaborating on research, open-source projects, and innovative AI solutions.
+
 
 <!-- ========================================================= -->
 <!--                        CODING   GIF                       -->
 <!-- ========================================================= -->
 
-<!--   <td width="40%">       -->
+<td width="40%">      
 
 <img
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
