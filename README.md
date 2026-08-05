@@ -1,3 +1,8 @@
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Muhammad%20Ali&fontSize=60&fontAlignY=38&desc=AI%20Researcher%20•%20Machine%20Learning%20Engineer%20•%20LLM%20Developer&descAlignY=60"/>
+</p>
+
+
 # 💫 About Me:
 Hi, I'm  Ali 👋<br><br>I'm an AI Researcher and MS in Artificial Intelligence graduate with a passion for developing intelligent, data-driven solutions to real-world problems. My work focuses on Machine Learning, Deep Learning, Time-Series Forecasting, Large Language Models (LLMs), Computer Vision, and Embedded AI. I enjoy building scalable AI systems, conducting research, and transforming innovative ideas into practical applications.<br><br>I'm always eager to collaborate on research projects, open-source initiatives, and AI-driven technologies that create meaningful impact.
 
