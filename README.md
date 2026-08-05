@@ -38,10 +38,14 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&durat
 <img src="https://komarev.com/ghpvc/?username=alimaqsoodahmed&style=flat-square&color=blue"/>
 
 </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5"/>
+
+
 
 <!-- ========================================================= -->
 <!--        5                 BIO SECTION                        -->
 <!-- ========================================================= -->
+
 
 <h2>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
