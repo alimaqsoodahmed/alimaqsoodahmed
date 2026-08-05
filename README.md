@@ -65,63 +65,25 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&durat
   About Me
 </h2>
 
-<table>
-<tr>
+## 👨‍💻 About Me
 
-<td width="60%" valign="top">
+🎓 MS in Artificial Intelligence
 
-### 👋 Hello!
+🔬 AI Researcher · Machine Learning Engineer
 
-I'm **Muhammad Ali**, an **AI Researcher** and **Machine Learning Engineer** with a Master's degree in **Artificial Intelligence**.
+💼 Building intelligent systems with Deep Learning & LLMs
 
-I enjoy designing intelligent systems that combine research with real-world applications.
+🌱 Exploring AI Agents, RAG, and Multimodal AI
 
-My interests include:
+📈 Researching Time-Series Forecasting & Smart Energy Systems
 
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 💬 Large Language Models (LLMs)
-- 👁️ Computer Vision
-- 📈 Time-Series Forecasting
-- ⚡ Smart Energy Systems
-- 🔬 AI Research
+👁️ Interested in Computer Vision & Embedded AI
 
-I love transforming research ideas into practical AI solutions and continuously exploring emerging technologies.
+🤝 Open to research collaborations and AI engineering opportunities
 
-</td>
+📚 Author of *Intelligent HEMS Optimization* (Master's Thesis)
 
-<td width="40%" valign="top">
 
-### 📌 Quick Facts
-
-🎓 MS Artificial Intelligence
-
-🏛 Air University Islamabad
-
-🔬 AI Researcher
-
-💻 Machine Learning Engineer
-
-🌱 Currently learning AI Agents & Multimodal AI
-
-💬 Ask me about
-
-• Python
-
-• Deep Learning
-
-• LLMs
-
-• Computer Vision
-
-📫 Reach me
-
-**malipallandri@gmail.com**
-
-</td>
-
-</tr>
-</table>
 
 
 ---
