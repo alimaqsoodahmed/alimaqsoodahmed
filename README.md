@@ -109,7 +109,7 @@ I love transforming research ideas into practical AI solutions and continuously 
 
 ---
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 
 <!-- ========================================================= -->
