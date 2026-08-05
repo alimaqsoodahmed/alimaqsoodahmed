@@ -1,9 +1,12 @@
+<!-- Hero Banner +  TYPING Animation -->
+
+
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Muhammad%20Ali&fontSize=60&fontAlignY=38&desc=AI%20Researcher%20•%20Machine%20Learning%20Engineer%20•%20LLM%20Developer&descAlignY=60"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Hi,+I'm+Muhammad+Ali;AI+Researcher;Machine+Learning+Engineer;MS+in+Artificial+Intelligence;Deep+Learning+Enthusiast;LLM+Developer;Computer+Vision+Explorer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Hi,+I'm+Ali;AI+Researcher;Machine+Learning+Engineer;MS+Artificial+Intelligence;Deep+Learning+Enthusiast;LLM+Developer;Computer+Vision+Explorer"/>
 </p>
 
 
