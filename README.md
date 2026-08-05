@@ -97,6 +97,80 @@ I've been working with Python, Machine Learning, and Deep Learning for several y
 Outside of research, I'm always learning something new—from AI Agents and RAG systems to Multimodal AI—and I'm open to collaborating on research, open-source projects, and innovative AI solutions.
 
 
+
+
+
+
+<!-- ======LLLLLLiiinnneeeeeeeeee========= ==========================================-->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5"/>
+<!-- ======LLLLLLiiinnneeeeeeeeee========= ==========================================-->
+
+<!-- ========================================================= -->
+<!--                  AI & MACHINE LEARNING                    -->
+<!-- ========================================================= -->
+
+<h2>🧠 AI & Machine Learning</h2>
+
+<p>
+Machine Learning · Deep Learning · Large Language Models · Computer Vision · Time-Series Forecasting · AI Agents
+</p>
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,python" />
+
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48"/>
+
+<img src="https://cdn.simpleicons.org/keras/D00000" height="48"/>
+
+<img src="https://cdn.simpleicons.org/pandas/150458" height="48"/>
+
+<img src="https://cdn.simpleicons.org/numpy/013243" height="48"/>
+
+</p>
+
+
+<!-- ========================================================= -->
+<!--                 BACKEND & DEVELOPMENT                     -->
+<!-- ========================================================= -->
+
+<h2>💻 Backend & Development</h2>
+
+<p>
+Python · FastAPI · Flask · Django · REST APIs
+</p>
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,django" />
+
+<img src="https://cdn.simpleicons.org/postman/FF6C37" height="48"/>
+
+<img src="https://cdn.simpleicons.org/swagger/85EA2D" height="48"/>
+
+</p>
+
+<!-- ========================================================= -->
+<!--                    MLOPS & CLOUD                          -->
+<!-- ========================================================= -->
+
+<h2>☁️ MLOps & Cloud</h2>
+
+<p>
+Docker · Git · GitHub · MLflow · AWS · Azure · Google Cloud
+</p>
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,aws,azure,gcp" />
+
+<img src="https://cdn.simpleicons.org/mlflow/0194E2" height="48"/>
+
+</p>
+
+
+
+
 <!-- ========================================================= -->
 <!--                        CODING   GIF                       -->
 <!-- ========================================================= -->
