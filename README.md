@@ -89,7 +89,7 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&durat
 <!--                        CODING   GIF                       -->
 <!-- ========================================================= -->
 
-<td width="40%">
+<!--   <td width="40%">       -->
 
 <img
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
