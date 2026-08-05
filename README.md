@@ -51,6 +51,8 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&durat
 <img src="https://komarev.com/ghpvc/?username=alimaqsoodahmed&style=flat-square&color=blue"/>
 
 </p>
+
+<!-- ======LLLLLLiiinnneeeeeeeeee========= -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5"/>
 
 
@@ -81,8 +83,6 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&durat
 
 
 ---
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5"/>
 
 
 <!-- ========================================================= -->
