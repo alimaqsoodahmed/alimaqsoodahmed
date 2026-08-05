@@ -107,3 +107,19 @@ I love transforming research ideas into practical AI solutions and continuously 
 </table>
 
 
+---
+
+<br>
+
+
+<!-- ========================================================= -->
+<!--                        CODING   GIF                       -->
+<!-- ========================================================= -->
+
+<td width="40%">
+
+<img
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+width="100%"/>
+
+</td>
