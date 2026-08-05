@@ -17,17 +17,39 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&durat
 
 </p>
 
-<!-- ===3====================== QUICK INFO ========================= -->
+
+
+<!-- ========================================================= -->
+<!--          3          CONNECT WITH ME                         -->
+<!-- ========================================================= -->
+
+<h3 align="center">Let's Connect 🤝</h3>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/MS-Artificial%20Intelligence-blue?style=for-the-badge"/>
+<a href="https://github.com/alimaqsoodahmed" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="48" />
+</a>
 
-<img src="https://img.shields.io/badge/AI-Researcher-success?style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/muhammad-ali-76b938182/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
+</a>
 
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge"/>
+<a href="mailto:malipallandri@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" />
+</a>
 
-<img src="https://img.shields.io/badge/Machine-Learning-red?style=for-the-badge"/>
+<a href="https://medium.com/@malipallandri" target="_blank">
+    <img src="https://cdn.simpleicons.org/medium/ffffff" height="48" />
+</a>
+
+<a href="https://x.com/sardralimaqsood" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/ffffff" height="48" />
+</a>
+
+<a href="https//alimaqsoodahmed.github.i" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="48" />
+</a>
 
 </p>
 
